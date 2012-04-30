@@ -1,0 +1,9 @@
+C:\Code\BabyPics\BabyPics\bin\Debug\BabyPics.exe.manifest
+C:\Code\BabyPics\BabyPics\bin\Debug\BabyPics.application
+C:\Code\BabyPics\BabyPics\bin\Debug\BabyPics.exe
+C:\Code\BabyPics\BabyPics\bin\Debug\BabyPics.pdb
+C:\Code\BabyPics\BabyPics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Code\BabyPics\BabyPics\obj\x86\Debug\BabyPics.exe.manifest
+C:\Code\BabyPics\BabyPics\obj\x86\Debug\BabyPics.application
+C:\Code\BabyPics\BabyPics\obj\x86\Debug\BabyPics.exe
+C:\Code\BabyPics\BabyPics\obj\x86\Debug\BabyPics.pdb
